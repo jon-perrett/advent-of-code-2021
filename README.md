@@ -8,11 +8,11 @@ The challenge is to complete Advent of Code, but using a different language each
 Below is the languages I will use for each of the days. It is ordered very roughly in reverse order of my familiarity with the languages, so that the harder challenges towards the end of the month are done in languages I'm more familiar with. Hopefully...
 
 01/12/2021	Rust  
-02/12/2021	Clojure  
+02/12/2021	C  
 03/12/2021	Ruby  
 04/12/2021	Pharo  
 05/12/2021	Haskell  
-06/12/2021	C  
+06/12/2021	Clojure  
 07/12/2021	C#  
 08/12/2021	Lisp  
 09/12/2021	Lua  
