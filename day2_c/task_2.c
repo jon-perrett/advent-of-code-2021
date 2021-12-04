@@ -4,12 +4,16 @@
 #include <stdlib.h>
 #include <string.h>
 
-void increase_depth(Position* pos, int amount) {
-    pos->depth = pos->depth + amount;
+void increase_aim(Position* pos, int amount) {
+    pos->aim = pos->aim + amount;
 }
 
 void increase_horiz(Position* pos, int amount) {
     pos->horizontal = pos->horizontal + amount;
+}
+
+void increase_depth(Position* pos, int amount) {
+    pos->depth = pos->depth + amount*pos->aim;
 }
 
 int main(int argc, char *argv[])
@@ -30,15 +34,16 @@ int main(int argc, char *argv[])
     while ((read = getline(&line, &len, fp)) != -1) {
         if (strstr(line, "down") != NULL) {
             down_amount = atoi(line + strlen(line) -2);
-            increase_depth(&current_position, down_amount);
+            increase_aim(&current_position, down_amount);
         
         } else if (strstr(line, "up") != NULL) {
             up_amount = -1 * atoi(line + strlen(line) -2);
-            increase_depth(&current_position, up_amount);
+            increase_aim(&current_position, up_amount);
             
         } else if (strstr(line, "forward") != NULL) {
             forward_amount = atoi(line + strlen(line) -2);
             increase_horiz(&current_position, forward_amount);
+            increase_depth(&current_position, forward_amount);
         }
     }
     int answer = current_position.depth * current_position.horizontal;

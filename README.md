@@ -43,3 +43,10 @@ Thoughts after completing:
 - The compiler has useful error messages.
 - I feel like I absolutely abused this language, it definitely has more features and I'd probably like to try it out properly. Maybe even 'learn it properly'...  
 Sorry Rust... 
+### 2nd December - C
+Experience level: _a bit..._  
+Thoughts going into it: I should be able to do this, at least it's a sensible language  
+Thoughts after completing:  
+- To be honest it's hard.
+- I got a correct solution for puzzle 1, started working on puzzle 2 and realised my solution to answer 1 was flaky. I did fix this in the end.
+- Pointers are useful actually.
