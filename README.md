@@ -34,10 +34,12 @@ Below is the languages I will use for each of the days. It is ordered very rough
 
 ## Tasting Notes
 This section contains a description of my thoughts on each language, written as I do each challenge.  
+Please note that I probably won't do much research into specific features of each language, so some of the solutions may be horrific to someone familiar in the language!  
 ### 1st December - Rust
 Experience level: _I'd probably recognise it if I saw it_  
 Thoughts going into it: I've seen the syntax before and I can't say I was a fan... let's see how it goes.  
 Thoughts after completing: 
 - It's quite annoying how there appears to be a lot of built in functionality, but to me it isn't intuitive as to what you can and can't do with different types.  
 - The compiler has useful error messages.
-- I feel like I absolutely abused this language, it definitely has more features and I'd probably like to try it out properly. Maybe even 'learn it properly'...
+- I feel like I absolutely abused this language, it definitely has more features and I'd probably like to try it out properly. Maybe even 'learn it properly'...  
+Sorry Rust... 
