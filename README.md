@@ -50,3 +50,8 @@ Thoughts after completing:
 - To be honest it's hard.
 - I got a correct solution for puzzle 1, started working on puzzle 2 and realised my solution to answer 1 was flaky. I did fix this in the end.
 - Pointers are useful actually.
+### 3rd December - Ruby
+Experience level: _none_  
+Thoughts going into it: I don't really know what to expect.  
+Thoughts after completing:
+- It feels a bit like Python  
