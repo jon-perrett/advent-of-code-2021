@@ -5,7 +5,7 @@ Advent of code 2021 - new language each day.
 The challenge is to complete Advent of Code, but using a different language each day.
 
 ## Schedule
-Below is the languages I will use for each of the days. It is ordered very roughly in reverse order of my familiarity with the languages, so that the harder challenges towards the end of the month are done in languages I'm more familiar with. Hopefully...
+Below is the languages I will use for each of the days. It is ordered very roughly in reverse order of my familiarity with the languages (with a few exceptions), so that the harder challenges towards the end of the month are done in languages I'm more familiar with. Hopefully...
 
 01/12/2021	Rust  
 02/12/2021	C  
