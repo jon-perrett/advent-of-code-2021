@@ -54,4 +54,6 @@ Thoughts after completing:
 Experience level: _none_  
 Thoughts going into it: I don't really know what to expect.  
 Thoughts after completing:
-- It feels a bit like Python  
+- It feels a bit like Python, with array methods that remind me of javascript.  
+- Got caught out with division being integer division.  
+- I don't know what I'd use this language for in reality, but it isn't awful.  
