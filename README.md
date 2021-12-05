@@ -10,10 +10,10 @@ Below is the languages I will use for each of the days. It is ordered very rough
 01/12/2021	Rust  
 02/12/2021	C  
 03/12/2021	Ruby  
-04/12/2021	Haskell  
+04/12/2021	C#  
 05/12/2021	Dart  
 06/12/2021	Clojure  
-07/12/2021	C#  
+07/12/2021	Haskell  
 08/12/2021	Lisp  
 09/12/2021	Lua  
 10/12/2021	Fortran  
