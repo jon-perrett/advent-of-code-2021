@@ -12,7 +12,7 @@ if __FILE__ == $0
             sums[idx] = sums[idx] + c.to_i()
             }
         }
-    majority_threshold = lines.length / 2
+    majority_threshold = lines.length / 2.to_f
 
     gamma = sums.map{|c| c > majority_threshold ? "1" : "0"}.join.to_i(2)
     epsilon = sums.map{|c| c > majority_threshold ? "0" : "1"}.join.to_i(2)
