@@ -57,3 +57,8 @@ Thoughts after completing:
 - It feels a bit like Python, with array methods that remind me of javascript.  
 - Got caught out with division being integer division.  
 - I don't know what I'd use this language for in reality, but it isn't awful.  
+### 4th December C#  
+Experience level: _I think I might have played with it once_  
+Thoughts going into it: It's Microsoft Java. Gonna be lots of classes and lots of verbosity...  
+Thoughts after completing it:
+- Gave up initially...  
